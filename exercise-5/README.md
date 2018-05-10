@@ -14,7 +14,7 @@ Your `server.R` file already loads the data you need, as well as scripts for bui
 - Make sure to pass your data and search string (i.e., `input$search`) to your `build_scatter` function.
 
 ## ui.R
-Your `ui.R` file already has a `tabPanel` built displaying your map. In this section, you should add another `tabPanel` for your scatter-plot by doing the following:
+Your `ui.R` file already has a `tabPanel` built displaying your map. In this section, you should add another `tabPanel` for your scatter-plot by doing the following:tr
 
 - Create a `tabPanel` to show your scatter plot
 - Add a `titlePanel` to your tab
